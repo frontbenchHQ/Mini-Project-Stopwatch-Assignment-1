@@ -1,4 +1,4 @@
-# Mini-Project-Stopwatch-Assignment1
+# Mini-Project-Stopwatch-Assignment-1
 
 **Read these instructions carefully to understand the requirements and functionalities for this project.**
 
