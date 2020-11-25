@@ -16,7 +16,7 @@ Below Functionalities should be implemented in your Project:
 **Task 1: Project Set Up**
 
 - Join the github Classroom assignment via **invitation link** shared by Mentor.
-- Follow the steps to setup the assignment.
+- Once Accepted, Follow the steps to setup the assignment.
 
 **Task 2: Project Requirements**
 
