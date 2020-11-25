@@ -4,7 +4,7 @@
 
 We will be Creating a Stopwatch using React for this Assignment.
 
-**Functionalities:**
+### **Functionalities:**
 
 Below Functionalities should be implemented in your Project:
 
@@ -13,7 +13,7 @@ Below Functionalities should be implemented in your Project:
 - On `Reset` button click the timer will reset to 00:00:00.
 - On `Pause` button click the timer will be paused.
 
-**Task 1: Project Set Up**
+### **Task 1: Project Set Up**
 
 - Clone this repo by using [use template](https://github.com/frontbenchHQ/Mini-Project-Stopwatch-Assignment-1/generate) option with name of repo as `Mini-Project-Stopwatch-Assignment`.
 
@@ -21,7 +21,7 @@ Below Functionalities should be implemented in your Project:
 
 - Use `githubbox.com` instead of `github.com` in your repository path, to create a synced codesandbox(always in sync with code in your repo). Read more [here](https://codesandbox.io/docs/importing#import-from-github)
 
-**Task 2: Project Requirements**
+### **Task 2: Project Requirements**
 
 - [ ] Create a Component for timer with initial value for timer as `00:00:00`. Feel free to customise styles for it (Can be a simple `span` or `p` tag to display timer as well).
 - [ ] Create 3 buttons i.e `Start`, `Pause` and `Reset`.
@@ -33,7 +33,7 @@ Below Functionalities should be implemented in your Project:
 
 **NOTE:** Use of **class component** is strictly `not allowed`.
 
-**Task 3**
+### **Task 3**
 
 - [ ] Submit the code repo link.
 
