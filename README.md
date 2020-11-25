@@ -19,6 +19,8 @@ Below Functionalities should be implemented in your Project:
 
 - Clone your created repo and work on it to push your code.
 
+- Use `githubbox.com` instead of `github.com` in your repository path, to create a synced codesandbox(always in sync with code in your repo). Read more [here](https://codesandbox.io/docs/importing#import-from-github)
+
 **Task 2: Project Requirements**
 
 - [ ] Create a Component for timer with initial value for timer as `00:00:00`. Feel free to customise styles for it (Can be a simple `span` or `p` tag to display timer as well).
@@ -33,7 +35,7 @@ Below Functionalities should be implemented in your Project:
 
 **Task 3**
 
-- [ ] Deploy and Submit the live url and code repo link.
+- [ ] Submit the code repo link.
 
 ---
 
