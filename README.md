@@ -15,7 +15,8 @@ Below Functionalities should be implemented in your Project:
 
 **Task 1: Project Set Up**
 
-- Create a [repl.it](http://repl.it) project.
+- Join the github Classroom assignment via **invitation link** shared by Mentor.
+- Follow the steps to setup the assignment.
 
 **Task 2: Project Requirements**
 
